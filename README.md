@@ -1,7 +1,7 @@
 # Events-Management
 Management system for events By Node-Js and React js
 # The apps contains two main profiles
-## Admin profile 
+## Admin Profile 
 ##### The admin can do the following
 - Add new speakers 
 - Remove speakers 
@@ -11,14 +11,14 @@ Management system for events By Node-Js and React js
 - Delete events 
 ##### In admin's profile he can find notifications if any speaker apologized for an event and his place empty to reassign another speaker 
 
-## Speaker profile 
+## Speaker Profile 
 ##### The speaker can do the following
 - Update his data
 - See his events 
 - See all events on the system
 - Apologize for an event 
 
-# Used eechnologies
+# Used Technologies
 ## Server side
 - Express js
 - MongoDB
