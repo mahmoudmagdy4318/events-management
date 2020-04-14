@@ -29,5 +29,5 @@ Management system for events By Node-Js and React js
 - React Js
 - HTML&CSS
 - Bootstrap
-- Api componants like "react-date-picker" and "multiselect-react-dropdown"  
+- Api components like "react-date-picker" and "multiselect-react-dropdown"  
 - Axios (used axios instance to handle responses and errors coming from the server)
